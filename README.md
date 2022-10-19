@@ -1,4 +1,4 @@
-# OOP-Lab-1
+#Screenshots
 ![1](https://user-images.githubusercontent.com/94574845/196800475-35baf886-52f0-4bc2-ab24-be2e3bfaef73.jpg)
 ![2](https://user-images.githubusercontent.com/94574845/196800532-4639caba-8050-457f-8d13-3df8afb2de92.jpg)
 ![3](https://user-images.githubusercontent.com/94574845/196800571-dac7d3a6-b30a-4450-bf37-e3292ce92eec.jpg)
